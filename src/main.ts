@@ -8,3 +8,6 @@ async function bootstrap() {
   await app.listen(globalConfig.port);
 }
 bootstrap();
+
+
+// FIRE
